@@ -4,3 +4,4 @@ button.addEventListener("click", () => {
 	document.body.style.backgroundColor = "fuchsia"; // action will go here
 });
 
+
